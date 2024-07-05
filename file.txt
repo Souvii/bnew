@@ -1,0 +1,6 @@
+ <i class="fa-sharp fa-solid fa-book text-[1.5vw] hover:text-[#fefae0] ease-in duration-200"></i>
+            <i class="fa-solid fa-house text-[1.5vw] hover:text-[#fefae0] ease-in duration-200"></i>
+            <i class="fa-solid fa-bell text-[1.5vw] hover:text-[#fefae0] ease-in duration-200"></i>
+            <i class="fa-solid fa-bookmark text-[1.5vw] hover:text-[#fefae0] ease-in duration-200"></i>
+            <i class="fa-solid fa-pen-nib text-[1.5vw] hover:text-[#fefae0] ease-in duration-200"></i>
+            <i class="fa-solid fa-shop text-[1.5vw] hover:text-[#fefae0] ease-in duration-200"></i>
